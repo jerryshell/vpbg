@@ -1,54 +1,18 @@
-# Remotion video
+# VPBG - Video Progress Bar Generator 视频进度条生成器
 
-<p align="center">
-  <a href="https://github.com/remotion-dev/logo">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/remotion-dev/logo/raw/main/animated-logo-banner-dark.gif">
-      <img alt="Animated Remotion Logo" src="https://github.com/remotion-dev/logo/raw/main/animated-logo-banner-light.gif">
-    </picture>
-  </a>
-</p>
-
-Welcome to your Remotion project!
-
-## Commands
-
-**Install Dependencies**
-
-```console
+```bash
+# 1. 初始化项目
 yarn
-```
-
-**Start Preview**
-
-```console
-yarn start
-```
-
-**Render video**
-
-```console
+# 2. 修改 src/PBConfig.ts
+# 3. 渲染视频
 yarn build
+# 4. 渲染完成的视频保存在 out/video.mp4
 ```
 
-**Upgrade Remotion**
+# 感谢
 
-```console
-yarn run upgrade
-```
+* [Remotion](https://www.remotion.dev)
 
-## Docs
+## 开源许可证
 
-Get started with Remotion by reading the [fundamentals page](https://www.remotion.dev/docs/the-fundamentals).
-
-## Help
-
-We provide help [on our Discord server](https://discord.gg/6VzzNDwUwV).
-
-## Issues
-
-Found an issue with Remotion? [File an issue here](https://github.com/remotion-dev/remotion/issues/new).
-
-## License
-
-Notice that for some entities a company license is needed. Read [the terms here](https://github.com/remotion-dev/remotion/blob/main/LICENSE.md).
+[GNU Affero General Public License v3.0](https://choosealicense.com/licenses/agpl-3.0)
