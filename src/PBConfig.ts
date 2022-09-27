@@ -7,9 +7,9 @@ export const PBConfig = {
 	// 视频宽度
 	width: 1920,
 	// 视频高度
-	height: 80,
+	height: 30,
 	// 视频文字大小
-	fontSize: '60px',
+	fontSize: '22px',
 	// 视频文字字体
 	fontFamily: 'SF Pro Text, Helvetica, Arial, sans-serif',
 	// 视频文字颜色
@@ -38,5 +38,5 @@ export const PBConfig = {
 			title: '结语',
 			start: 8
 		}
-	] as {title: string, start: number}[]
+	] as { title: string, start: number }[]
 };
