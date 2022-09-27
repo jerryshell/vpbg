@@ -1,7 +1,9 @@
 # VPBG - Video Progress Bar Generator 视频进度条生成器
 
 ```bash
-# 1. 初始化项目
+# 0. 克隆仓库并切换目录
+git clone https://github.com/jerryshell/vpbg && cd vpbg
+# 1. 初始化依赖
 yarn
 # 2. 修改 src/PBConfig.ts
 # 3. 渲染视频
@@ -11,7 +13,7 @@ yarn build
 
 # 感谢
 
-* [Remotion](https://www.remotion.dev)
+[Remotion](https://www.remotion.dev)
 
 ## 开源许可证
 
