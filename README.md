@@ -1,5 +1,7 @@
 # VPBG - Video Progress Bar Generator 视频进度条生成器
 
+Bilibili 视频：[https://www.bilibili.com/video/BV1yG411J7xp](https://www.bilibili.com/video/BV1yG411J7xp)
+
 ```bash
 # 0. 克隆仓库并切换目录
 git clone https://github.com/jerryshell/vpbg && cd vpbg
